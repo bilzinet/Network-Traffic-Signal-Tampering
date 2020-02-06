@@ -4,4 +4,4 @@ Intersection capacities can influence local traffic flows, which can impact traf
 the network over time (maximize impact) while introducing minimal changes to network signal timings (minimize noticeability). We represent the Spatio-temporal traffic dynamics as a static network flow problem on a time-expanded graph. This allows us to reduce the (non-convex) attack problem to a tractable form, which can be solved with polynomial complexity. We show that minor but objective adjustments in the
 signal timings over time can severely impact traffic conditions at the network level. We investigate network vulnerability by examining the concavity of the Pareto-optimal frontier obtained by solving the bi-objective attack problem. Numerical experiments are included to investigate the model and typical results that would be obtained using four toy networks.
 
-![alt text](./img.png)
+![Vulnerability measure](./Net-struct-comp-lowdemand-norm.pdf)
